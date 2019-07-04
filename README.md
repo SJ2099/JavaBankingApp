@@ -3,11 +3,17 @@ This is a Java Application for Banking Management System created using Netbeans 
 
 The Customer can-
 1.Create an Account
+
 2.Get Account Details
+
 3.Deposit money to their account 
+
 4.Withdraw money from their account
+
 5.Transfer money into another account
+
 6.View customer list
+
 7.View bank branch list 
 
 Introduction -
