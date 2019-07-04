@@ -2,6 +2,7 @@
 This is a Java Application for Banking Management System created using Netbeans IDE.
 
 The Customer can-
+
 1.Create an Account
 
 2.Get Account Details
