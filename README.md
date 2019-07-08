@@ -35,5 +35,5 @@ Modules of the banking management system are -
            
 ER Diagram for Banking Management System-
 
-![alt text](https://github.com/SJ2099/JavaBankingApp/blob/master/Banking.png)
+![alt text](https://github.com/SJ2099/JavaBankingApp/blob/master/Banking%20(1).png)
 
